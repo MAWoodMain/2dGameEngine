@@ -41,7 +41,7 @@ namespace Workflow
         /// <summary>
         /// Getter for the y value for the vector.
         /// </summary>
-        public float getY()
+        public float getY() //test
         {
             return Trajectory.Y;
         }
